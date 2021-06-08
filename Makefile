@@ -3,7 +3,7 @@ HOSTNAME=namrata
 NAMESPACE=edu
 NAME=zooms
 BINARY=terraform-provider-${NAME}.exe
-VERSION=0.1.0
+VERSION=0.2.0
 OS_ARCH=windows/amd64
 
 default: install
