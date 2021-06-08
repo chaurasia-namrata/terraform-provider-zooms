@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     zoom = {
-      version = "0.2"
+      version = "0.2.0"
       source  = "hashicorp.com/edu/zoom"
     }
   }
