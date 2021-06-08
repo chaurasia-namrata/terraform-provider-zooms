@@ -8,8 +8,8 @@ terraform {
 }
 
 provider "zoom" { 
-  apisecret="Qk2vHwnMdT0K1dXqWoFyYkMwt2CDkxOwYixV"
-  apikey="lNGJBHjuROOFKCM68LjH0g"
+  apisecret="[API_SECRET]"
+  apikey="[API_KEY]"
 }
 
 
